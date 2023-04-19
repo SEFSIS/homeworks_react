@@ -1,0 +1,4 @@
+.todo{
+    background: repeating-linear-gradient(45deg, #aa80ff, #8092fc 10px, #788cf1 10px, #6a7ce8 20px);
+    border:solid white;
+}
